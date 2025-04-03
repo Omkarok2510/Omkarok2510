@@ -8,13 +8,13 @@
 
 <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="100%" />
 
-
+---
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **Inventory Warehouse Management System for Haier**  
 - 🌱 I’m learning **AI, ML, SDN, and Cybersecurity**  
 - 💬 Ask me about **Java, Python, Automation Testing, and AI/ML**  
-- 📫 How to reach me: **omkarok2510.com**  
+- 📫 How to reach me: [🌍 omkarok2510.com](https://omkarok2510.com)  
 - 🎯 Fun fact: **Developers never stop learning!**  
 
 ---
@@ -25,17 +25,21 @@
 <a href="https://instagram.com/omkar_karale_25" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
+---
 
 ## 💻 Tech Stack & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,linux,mysql,aws,docker,kubernetes,git" />
 </p>
 
+---
+
 ## 🏆 GitHub Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Omkarok2510&theme=onedark&row=1&column=6"/>
 </p>
 
+---
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -46,6 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarok2510&layout=compact&theme=dark" />
 </p>
 
+---
 
 ## 🚀 My Latest Project  
 **🎯 Inventory Warehouse Management System for Haier**  
@@ -53,20 +58,29 @@
 ✅ Fraud detection for counterfeit parts  
 ✅ Technician availability management  
 
+---
 
 ## 🎵 Music While Coding  
-[![Spotify](https://novatorem-omkarok2510.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)  
+<p align="center">
+  <a href="https://open.spotify.com/user/yourusername">
+    <img src="https://novatorem-omkarok2510.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</p>
 
-
+---
 
 ## 🖼️ Random Dev Meme  
-<img src="https://random-memer.herokuapp.com/" width="400px"/>
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="400px"/>
+</p>
 
-
+---
 
 ## 📝 Quote of the Day  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
+---
 
-
-
+### ⭐ **Like This? Star My Profile!** 😃  

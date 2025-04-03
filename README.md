@@ -70,15 +70,6 @@
   </a>
 </p>
 
----
-
-## 🖼️ Random Dev Meme  
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400px"/>
-</p>
-
----
-
 ## 📝 Quote of the Day  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />

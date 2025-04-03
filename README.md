@@ -22,7 +22,7 @@
 ## 🌐 Connect with Me  
 <p align="center">
 <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-<a href="linkedin.com/in/omkar-karale-21881a281" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/omkar-karale-21881a281" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/omkar_karale_25" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
@@ -76,6 +76,5 @@
 
 ---
 
-### 📌 Want to Create a Profile Like This?  
-⭐ Star this repository and customize your own GitHub README! 😃  
+
 

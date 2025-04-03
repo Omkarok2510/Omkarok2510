@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Inventory Warehouse Management System for Haier**
 - 🌱 I’m currently learning **AI, ML, SDN, and Cybersecurity**
 - 💬 Ask me about **Java, Python, Automation Testing, and AI/ML**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **omkarok2510@gmail.com**
 - ⚡ Fun fact: **Developers learn in a variety of ways!**
 
 

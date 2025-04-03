@@ -1,4 +1,4 @@
----
+
 # 👋 Hi, I’m Omkar (@Omkarok2510)  
 
 - 👀 I’m interested in Software Development, Networking, and Inventory Management Systems  
@@ -8,4 +8,3 @@
 
 🚀 Currently working on an **Inventory Warehouse Management System for Haier** to optimize parts tracking, prevent counterfeit usage, and enhance technician efficiency!  
 
----

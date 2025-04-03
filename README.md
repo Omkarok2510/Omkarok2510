@@ -43,7 +43,7 @@
 
 ---
 
-## 📊 GitHub Stats (Python-Focused)  
+[## 📊 GitHub Stats (Python-Focused)  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omkarok2510&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <br>
@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarok2510&layout=compact&theme=dark&langs_count=6&hide=javascript,html,css" />
 </p>
 
----
+---](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarok2510&layout=compact&theme=dark&langs_count=8)
 
 ## 🚀 My Latest Python Project  
 ### 🎯 **Inventory Warehouse Management System for Haier**  

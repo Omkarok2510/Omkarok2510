@@ -1,9 +1,10 @@
 <h1 align="center">Hi there, I'm Omkar! 👋</h1>
-<h3 align="center">🚀 A Passionate Developer from India 🚀</h3>
+<h3 align="center">🚀 Python Developer | AI & ML Enthusiast | SDN & Cybersecurity Learner 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Omkarok2510&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
   <img src="https://img.shields.io/github/followers/Omkarok2510?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="100%" />
@@ -11,11 +12,12 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **Inventory Warehouse Management System for Haier**  
-- 🌱 I’m learning **AI, ML, SDN, and Cybersecurity**  
-- 💬 Ask me about **Java, Python, Automation Testing, and AI/ML**  
-- 📫 How to reach me: [🌍 omkarok2510.com](https://omkarok2510.com)  
-- 🎯 Fun fact: **Developers never stop learning!**  
+- 🔭 I’m currently developing **Inventory Warehouse Management System for Haier**  
+- 🌱 I’m deep-diving into **Python, AI, ML, SDN, and Cybersecurity**  
+- 🐍 My primary language: **Python**  
+- 💬 Ask me about **Python, Automation, AI/ML, and SDN**  
+- 📫 Reach me at: [🌍 omkarok2510.com](https://omkarok2510.com)  
+- 🎯 Fun fact: **Python's Zen makes coding feel like poetry!**  
 
 ---
 
@@ -27,9 +29,9 @@
 
 ---
 
-## 💻 Tech Stack & Tools  
+## 🐍 My Python Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,linux,mysql,aws,docker,kubernetes,git" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,pytorch,tensorflow,jupyter,linux,mysql,aws,docker,kubernetes,git" />
 </p>
 
 ---
@@ -41,22 +43,23 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats (Python-Focused)  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omkarok2510&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omkarok2510&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarok2510&theme=dark" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarok2510&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarok2510&layout=compact&theme=dark&langs_count=6&hide=javascript,html,css" />
 </p>
 
 ---
 
-## 🚀 My Latest Project  
-**🎯 Inventory Warehouse Management System for Haier**  
-✅ Real-time inventory tracking  
-✅ Fraud detection for counterfeit parts  
-✅ Technician availability management  
+## 🚀 My Latest Python Project  
+### 🎯 **Inventory Warehouse Management System for Haier**  
+✅ Built using **Python & Django**  
+✅ Real-time **inventory tracking**  
+✅ **Fraud detection** for counterfeit parts  
+✅ **Automated technician availability management**  
 
 ---
 
@@ -83,4 +86,4 @@
 
 ---
 
-### ⭐ **Like This? Star My Profile!** 😃  
+### ⭐ **Love Python? Star My Profile!** 🐍  

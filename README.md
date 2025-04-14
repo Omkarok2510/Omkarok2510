@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Omkar! 👋</h1>
-<h3 align="center">🚀 Python Developer | AI & ML Enthusiast | SDN & Cybersecurity Learner 🚀</h3>
+<h3 align="center">🚀 Python & Web Dev Enthusiast | Learning OpenCV | Building Real-World Projects 🚀</h2>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Omkarok2510&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -15,8 +17,8 @@
 - 🔭 I’m currently developing **Inventory Warehouse Management System for Haier**  
 - 🌱 I’m deep-diving into **Python, AI, ML, SDN, and Cybersecurity**  
 - 🐍 My primary language: **Python**  
-- 💬 Ask me about **Python, Automation, AI/ML, and SDN**  
-- 📫 Reach me at: [🌍 omkarok2510.com](https://omkarok2510.com)  
+- 💬 Ask me about **Python, Automation, AI/ML, and Data Science**  
+- 📫 Reach me at: ([🌍 omkarok2510@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new))  
 - 🎯 Fun fact: **Python's Zen makes coding feel like poetry!**  
 
 ---
@@ -43,7 +45,7 @@
 
 ---
 
-[## 📊 GitHub Stats (Python-Focused)  
+### 📊 GitHub Stats (Python-Focused)  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omkarok2510&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <br>
@@ -52,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarok2510&layout=compact&theme=dark&langs_count=6&hide=javascript,html,css" />
 </p>
 
----](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarok2510&layout=compact&theme=dark&langs_count=8)
+---
 
 ## 🚀 My Latest Python Project  
 ### 🎯 **Inventory Warehouse Management System for Haier**  
